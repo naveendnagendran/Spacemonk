@@ -1,0 +1,84 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+#mainLogo{
+	
+	text-align:center;
+	animation-delay: 5;
+	display:block;	
+	opacity: 0.5;
+}
+
+#logo{
+	height:300px;
+	width:auto;	
+}
+
+input:focus::-webkit-input-placeholder {
+    color: transparent;
+}
+
+#form{
+	
+	text-align:center;
+	opacity: 0.5;
+	margin-top:-40px;
+	
+}
+
+#name{
+	display:block;
+	position:relative;	
+	text-align:center;
+	margin-left:45% ;
+	margin-top:5%;
+}
+
+#password{
+	display:block;
+	position:relative;	
+	text-align:center;
+	margin-left:45% ;
+	margin-top:2%;
+}
+
+#rememberme{
+	display:block;
+	position:inherit;
+	margin-top:7px;
+	margin-left:46%;
+}
+
+
+#sign {
+	
+	margin-top:10px;
+	margin-left:46%;
+	
+}
+
+
+#signin{
+	display:inline-block;
+	text-align:center;
+}
+
+#signup
+
+{
+	display:inline-block;
+}
+
+#oruse{
+	
+	text-align:center;
+	margin-left:50px;
+}
+
+#social{
+	text-align:center;
+	margin-left:30px;
+	margin-top:-10px;	
+}
